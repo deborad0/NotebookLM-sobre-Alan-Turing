@@ -1,3 +1,5 @@
+Link do NotebookLM: (https://notebooklm.google.com/notebook/86d87aaf-fb21-429b-99bd-7265b6e098ff)
+
 **Assunto e Objetivos:** 
 
 Este notebook explora a trajetória e o legado de Alan Turing, destacando seu papel fundamental na decifração da máquina Enigma durante a Segunda Guerra Mundial.
@@ -44,16 +46,27 @@ Correção de Mitos: Identificamos que a máquina não se chamava "Christopher" 
 
 
 **Máquina de Turing (Modelo Teórico):** Uma invenção teórica capaz de manipular símbolos em uma fita infinita de acordo com regras, servindo como modelo para computadores de propósito geral.
+
 **Enigma:** Máquina eletromecânica de criptografia usada pela Alemanha na Segunda Guerra Mundial, composta por rotores, painel de conexões (plugboard) e um refletor.
+
 **Bombe:** Dispositivo eletromecânico projetado por Turing e Gordon Welchman para automatizar a descoberta das configurações diárias da Enigma através de testes de consistência lógica.
+
 **Colossus:** O primeiro computador eletrônico programável do mundo, projetado por Tommy Flowers para quebrar a cifra alemã de Lorenz, muito mais complexa que a Enigma.
+
 **Crib:** Um trecho de texto simples (como "Wetter" ou "Heil Hitler") que os criptoanalistas presumiam estar presente em uma mensagem criptografada para iniciar o processo de decifração.
+
 **Menu:** Diagrama que mapeia as relações lógicas e geométricas entre as letras de um crib e o texto cifrado correspondente, usado para configurar a Bombe.
+
 **Placa Diagonal:** Inovação de Gordon Welchman adicionada à Bombe que explorava a natureza recíproca das conexões do painel (stecker), reduzindo drasticamente as combinações a serem testadas.
+
 **Teste de Turing (Jogo da Imitação):** Experimento proposto por Turing para avaliar se uma máquina pode imitar o pensamento humano a ponto de se tornar indistinguível de uma pessoa em uma conversa.
+
 **Aritmética Modular:** Também conhecida como "aritmética do relógio", é a base matemática para muitas cifras, onde os resultados das operações "dão a volta" ao atingir um valor limite (módulo).
+
 **Criptografia RSA:** Sistema de criptografia de chave pública baseado na dificuldade de fatorar grandes números que são produtos de dois números primos.
+
 **Entscheidungsproblem (Problema de Decisão):** Questão lógica proposta por Hilbert que Turing provou ser insolúvel, demonstrando que não existe um algoritmo geral para decidir se qualquer afirmação matemática é provável.
+
 
 **Conjunto de Prompts Reutilizáveis**
 
